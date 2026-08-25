@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! I'm a Data Science Enthusiast.<br>🎓 Education: MS CS @ 2026 | B.Tech CSE @ 2024<br>💻 Languages: Python, C++, C#, MySQL, HTML<br>🎯 Focus: Transforming raw data into meaningful stories.<br>🌱 Currently: Exploring advanced machine learning frameworks and statistical modeling.
+👋 Hello! I'm a Data Engineer.<br>🎓 Education: MS CS @ 2026 | B.Tech CSE @ 2024<br>💻 Languages: Python, SQL, PySpark<br>🎯 Focus: designing, building, and maintaining the infrastructure and pipelines that transform raw data into clean, accessible data for analysis.<br>🌱 Currently: Exploring AI infrastructure, real-time streaming, and unified storage standards.
 
 
 ## 🌐 Socials:
